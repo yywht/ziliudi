@@ -155,3 +155,5 @@ http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
 http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.flv
 #EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="影视",影迷数位电影
 http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
+#EXTINF:-1
+http://live-dtocnc-cdn.ysp.cctv.cn/7BB5A295D413040B125C6CE2166B88AAC5522A069985C52D420F97924CB37DE11006360C9F9824C09CC46BE50906C95DC113077C0B9AEC5086A46E07FDBCB5030F6F8B9556BBB45B514327D740E7A428E78DDE6214C538A63334A20C6A2D5EAB/2000296103.m3u8?from=player&svrtime=1582114076&pid=0&cdn=5505
